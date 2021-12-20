@@ -12,13 +12,13 @@
 
 <!-- pixel  -->
 <hr>
-<img align="center" alt="Rafa-pic" height="500" style="border-radius:50px;" src="http://img2.joyreactor.com/pics/post/orange-magik-gif-anime-cyberpunk-2887639.gif">
+<img align="center" alt="mic-pic" height="500" style="border-radius:50px;" src="http://img2.joyreactor.com/pics/post/orange-magik-gif-anime-cyberpunk-2887639.gif">
 
 <!-- apresentação -->
 <hr>
 <h3 align="center">  
   
- <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://lh6.googleusercontent.com/lm4PvyO92s85ZvUes6VPsWKvl6VVuPA-vguTqB7mhSLbUsjj22kk8P2zvoTt2cbUhOXkdxr89inD2OybqMDCIoE=w1280">
+ <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://lh4.googleusercontent.com/460PQAqfc4qCvF-8mwUBbyJuXl0OKpg_2DaKyTp6zdGAxWgJpjHCouanbrYR2K4L4WqnG12zXrbCk50-WTxR2as=w1280">
   <div style="display: inline_block"><br>
     <br>Salve Dev, Eu sou a Michele 👋 🇧🇷 <br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
