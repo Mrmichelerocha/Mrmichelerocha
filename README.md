@@ -54,5 +54,7 @@ atualmente tenho me dedicado a me tornar uma dev backend.
   - 🌱 CSS
   - 💬 JavaScript
   - ⚡ MySQL
+  - 🤩 Tentando montar um guia de estudos 
+  - 🤺 Atualizando meu Currilo Online 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
