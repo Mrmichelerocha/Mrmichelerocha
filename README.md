@@ -12,13 +12,13 @@
 
 <!-- pixel  -->
 <hr>
-<img align="center" alt="mic-pic" height="500" style="border-radius:50px;" src="http://img2.joyreactor.com/pics/post/orange-magik-gif-anime-cyberpunk-2887639.gif">
+<img align="center" alt="mic-pic" height="300" width="900" style="border-radius:50px;" src="http://img2.joyreactor.com/pics/post/orange-magik-gif-anime-cyberpunk-2887639.gif">
 
 <!-- apresentação -->
 <hr>
 <h3 align="center">  
   
- <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://lh4.googleusercontent.com/460PQAqfc4qCvF-8mwUBbyJuXl0OKpg_2DaKyTp6zdGAxWgJpjHCouanbrYR2K4L4WqnG12zXrbCk50-WTxR2as=w1280">
+ <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://lh5.googleusercontent.com/R1mSUMWV-yumKPBx-QwK0nyPGOwVOLcheU0MXzsJgVkcSzikWpqdCUXdi06CoIQQP4efqmW5R0JMbN9WiyOEqr4=w1280">
   <div style="display: inline_block"><br>
     <br>Salve Dev, Eu sou a Michele 👋 🇧🇷 <br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,8 +42,8 @@ atualmente tenho me dedicado a me tornar uma dev backend.
 ## Meus dados no GitHub 💣
 <div align="center">
   <a href="https://github.com/Mrmichelerocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmichelerocha&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmichelerocha&layout=compact&langs_count=7&theme="/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrmichelerocha&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmichelerocha&layout=compact&langs_count=7&theme="/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmichelerocha&" alt="mrmichelerocha" /></p>
 </div>
   
