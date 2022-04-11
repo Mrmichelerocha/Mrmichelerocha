@@ -18,7 +18,7 @@
 <hr>
 <h3 align="center">  
   
- <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://lh5.googleusercontent.com/R1mSUMWV-yumKPBx-QwK0nyPGOwVOLcheU0MXzsJgVkcSzikWpqdCUXdi06CoIQQP4efqmW5R0JMbN9WiyOEqr4=w1280">
+ <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://user-images.githubusercontent.com/93664169/162767151-ea0f434d-a077-4743-8498-fe2d6e9ce781.gif">
   <div style="display: inline_block"><br>
     <br>Salve Dev, Eu sou a Michele 👋 🇧🇷 <br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,6 +36,15 @@ Estudante de Engenharia de Computação na UFSC - Universidade Federal de santa 
 sou fascinada por computação, e uma excelente organizadora e 
 atualmente tenho me dedicado a me tornar uma dev backend.
 ```
+  
+## Tecnologias que estou estudando atualmente 💻
+
+  - 🎯  Atualmente estou trabalhando em **metodologias ágeis** e **gestão de projetos**
+  - 📑 Em busca do certificado **DASM-PMI**
+  - 🐺 Procuro colaborar em projetos de **IOT** e **IA**
+  - 🎀 Sou Voluntaria no projeto **Meninas Digitais**
+  - ⚛️ Membro do financeiro da equipe **QuantumTeam**
+  - 💻 No momento ingressando em trabalhos de IA com a **Liga de Inteligência Artificial-LIA**
 
 
 <!-- Git  -->
@@ -47,14 +56,5 @@ atualmente tenho me dedicado a me tornar uma dev backend.
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmichelerocha&" alt="mrmichelerocha" /></p>
 </div>
   
-  
-## Tecnologias que estou estudando atualmente 💻
-
-  - 🔭 HTML
-  - 🌱 CSS
-  - 💬 JavaScript
-  - ⚡ MySQL
-  - 🤩 Tentando montar um guia de estudos 
-  - 🤺 Atualizando meu Currilo Online 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
