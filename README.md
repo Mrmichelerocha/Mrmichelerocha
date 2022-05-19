@@ -57,4 +57,3 @@ atualmente tenho me dedicado a me tornar uma dev backend.
 </div>
   
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
