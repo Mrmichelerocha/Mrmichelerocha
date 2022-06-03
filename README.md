@@ -12,7 +12,7 @@
 
 <!-- pixel  -->
 <hr>
-<img align="center" alt="mic-pic" height="300" width="900" style="border-radius:50px;" src="http://img2.joyreactor.com/pics/post/orange-magik-gif-anime-cyberpunk-2887639.gif">
+<img align="center" alt="mic-pic" height="300" width="900" style="border-radius:50px;" src="[http://img2.joyreactor.com/pics/post/orange-magik-gif-anime-cyberpunk-2887639.gif](https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720)">
 
 <!-- apresentação -->
 <hr>
