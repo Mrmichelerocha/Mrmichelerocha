@@ -19,7 +19,7 @@
 
 <hr>
  
-<div>
+<div display="flex" aling-itens="center">
   <div>
       <img align="left" alt="Mic-gif" height="20%" width="20%" max-width="100%" max-height="100%" style="border:100px;" src="https://user-images.githubusercontent.com/93664169/162767151-ea0f434d-a077-4743-8498-fe2d6e9ce781.gif">
   </div>
