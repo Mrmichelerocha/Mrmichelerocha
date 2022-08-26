@@ -12,7 +12,8 @@
 
 <!-- pixel  -->
 <hr>
-  <img align="center" alt="mic-pic" height="300" width="1000" max-width="100%" max-height="100%" style="border-radius:50px;" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
+
+  <img align="center" alt="mic-pic" height="100%" width="100%" max-width="100%" max-height="100%" style="border-radius:50px;" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
 
 <!-- apresentação -->
 <hr>
