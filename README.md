@@ -16,28 +16,42 @@
   <img align="center" alt="mic-pic" height="100%" width="100%" max-width="100%" max-height="100%" style="border-radius:50px;" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
 
 <!-- apresentação -->
-<hr>
-<h3 align="center">  
-  
- <img align="left" alt="Mic-gif" height="20%" width="20%" max-width="100%" max-height="100%" style="border:100px;" src="https://user-images.githubusercontent.com/93664169/162767151-ea0f434d-a077-4743-8498-fe2d6e9ce781.gif">
-  <div style="display: inline_block"><br>
-    <br>Salve Dev, Eu sou a Michele 👋 🇧🇷 <br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    
-  </div>
-</h3>
 
-```
-Estudante de Engenharia de Computação na UFSC - Universidade Federal de santa Catarina, 
-sou fascinada por computação, e uma excelente organizadora e 
-atualmente tenho me dedicado a me tornar uma dev backend.
-```
-  
+<hr>
+ 
+<div>
+  <div>
+      <img align="left" alt="Mic-gif" height="20%" width="20%" max-width="100%" max-height="100%" style="border:100px;" src="https://user-images.githubusercontent.com/93664169/162767151-ea0f434d-a077-4743-8498-fe2d6e9ce781.gif">
+  </div>
+
+  <div>
+    <br> <h2 align="center">Salve Dev, Eu sou a Michele 👋 🇧🇷</h2> <br>
+  </div>
+
+  <div align="center" style="display: inline_block"><br>
+      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
+</div>
+
+
+<br>
+<br>
+<br>
+<div>
+
+  ```
+  Estudante de Engenharia de Computação na UFSC - Universidade Federal de santa Catarina, 
+  sou fascinada por computação, e uma excelente organizadora e 
+  atualmente tenho me dedicado a me tornar uma dev backend.
+  ```
+ 
+<div>
+
 ## Tecnologias que estou estudando atualmente 💻
 
   - 🎯  Atualmente estou trabalhando em **metodologias ágeis** e **gestão de projetos**
