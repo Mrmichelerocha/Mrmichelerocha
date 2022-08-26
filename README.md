@@ -19,7 +19,7 @@
 <hr>
 <h3 align="center">  
   
- <img align="left" alt="Mic-gif" height="150" style="border:100px;" src="https://user-images.githubusercontent.com/93664169/162767151-ea0f434d-a077-4743-8498-fe2d6e9ce781.gif">
+ <img align="left" alt="Mic-gif" height="20%" width="20%" max-width="100%" max-height="100%" style="border:100px;" src="https://user-images.githubusercontent.com/93664169/162767151-ea0f434d-a077-4743-8498-fe2d6e9ce781.gif">
   <div style="display: inline_block"><br>
     <br>Salve Dev, Eu sou a Michele 👋 🇧🇷 <br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
