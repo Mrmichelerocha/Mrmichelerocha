@@ -25,7 +25,7 @@
   </div>
 
   <div>
-    <br> <h2 align="center">Salve Dev, Eu sou a Michele 👋 🇧🇷</h2> <br>
+    <br> <h4 align="center">Salve Dev, Eu sou a Michele 👋 🇧🇷</h4> <br>
   </div>
 
   <div align="center" style="display: inline_block"><br>
