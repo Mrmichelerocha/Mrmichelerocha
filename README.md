@@ -1,5 +1,6 @@
 <!-- link's  -->
 <div align="center"> 
+  <a href="https://mrmichelerocha.github.io/Portifolio-static/" target="_blank"><img src="https://img.shields.io/badge/Blogger-fc4f08?style=for-the-badge&logo=Blogger&logoColor=white" target="_blank"></a>  
   <a href="#" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enc-michele-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/mr.michelerocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
