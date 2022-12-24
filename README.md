@@ -1,10 +1,9 @@
 <!-- link's  -->
 <div align="center"> 
   <a href="https://mrmichelerocha.github.io/Portifolio-static/" target="_blank"><img src="https://img.shields.io/badge/Blogger-fc4f08?style=for-the-badge&logo=Blogger&logoColor=white" target="_blank"></a>  
-  <a href="#" target="_blank"></a>
+  <a href = "https://linktr.ee/mrmichelerocha"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enc-michele-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/mr.michelerocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mr.michelerocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/jKnmGx7t" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/arena_dev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCDSM3WUhHE19sz2_-Couj4A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
